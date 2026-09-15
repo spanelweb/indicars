@@ -1,6 +1,17 @@
 # Indicars
 Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.
 
+## Table Gambar
+| Setup | Dashboard | Tambah Data |
+| :---: | :---: | :---: |
+| ![Gambar 1](screenshot/ss_001.png) | ![Gambar 2](screenshot/ss_002.png) | ![Gambar 3](screenshot/ss_003.png) |
+| Tampilan Data/Setelan | Tampilan dashboard dan data pada kartu | Tampilan menambahkan data error baru |
+
+| Isi Kartu | Isi Kartu Ke Bawah |
+| :---: | :---: |
+| ![Gambar 4](screenshot/ss_004.png) | ![Gambar 5](screenshot/ss_005.png) |
+| Tampilan isi kartu | Tampilan isi kartu kebawah |
+
 ## Setup & Integrasi Gemini API Key
 1. Masukkan nama bengkel anda.
 2. Pilih logo/gambar bengkel anda.

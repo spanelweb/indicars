@@ -1,2 +1,48 @@
-# indicars
+# Indicars
 Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.
+
+## Setup & Integrasi Gemini API Key
+1. Masukkan nama bengkel anda.
+2. Pilih logo/gambar bengkel anda.
+3. Buat api key > [disini](https://aistudio.google.com/api-keys) lalu tempel api key anda.
+4. Simpan
+
+## Fitur
+> Tema Terang/Gelap
+
+> Minimalis UI/UX Responsive
+
+> Pencarian data yang tersimpan
+
+> Membuat data Error
+
+> Menghapus data pada daftar kartu    
+
+> Menganalisa kesalahan berdasarkan kode dari OBD II (by generate AI)
+
+> Mencatat dan menampilkan indikasi masalah
+
+> Memberitahukan cara langkah perbaikan dengan tugas ceklis pada daftar jika sudah dilakukan
+
+> Print langsung
+
+### Menambahkan Data Error
+Klik tombol {+ Tambah Data Error}
+- Masukkan Kode Error (DTC)
+- Pilih Merk Mobil (Buatan Jepang di Indonesia)
+- Masukkan Nama Mobil / Versi
+- Sesuaikan tanggal
+- Klik Tombol Indikasikan
+
+### Catatan
+``` txt
+Semua data disimpan secara lokal! Kami tidak menyimpan data secara online.
+Lakukan penyimpanan secara mandiri dengan mengexport data yang sudah anda buat.
+import .indicars anda untuk pemulihan data. 
+```
+
+
+
+Hormat Saya,
+
+~ Suryo DwiJayanto

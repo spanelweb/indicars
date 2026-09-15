@@ -7,10 +7,10 @@ Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui in
 | ![Gambar 1](screenshot/ss_001.png) | ![Gambar 2](screenshot/ss_002.png) | ![Gambar 3](screenshot/ss_003.png) |
 | Tampilan Data/Setelan | Tampilan dashboard dan data pada kartu | Tampilan menambahkan data error baru |
 
-| Isi Kartu | Isi Kartu Ke Bawah |
-| :---: | :---: |
-| ![Gambar 4](screenshot/ss_004.png) | ![Gambar 5](screenshot/ss_005.png) |
-| Tampilan isi kartu | Tampilan isi kartu kebawah |
+| Koneksi OBD II | Isi Kartu | Isi Kartu Ke Bawah |
+| :---: | :---: | :---: |
+| ![Gambar 4](screenshot/ss_004.png) | ![Gambar 5](screenshot/ss_005.png) | ![Gambar 6](screenshot/ss_006.png) |
+| Langsung buat indikasi dengan Scanner OBD-II (ELM327) | Tampilan isi kartu | Tampilan isi kartu kebawah |
 
 ## Setup & Integrasi Gemini API Key
 1. Masukkan nama bengkel anda.

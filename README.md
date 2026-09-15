@@ -45,6 +45,12 @@ Klik tombol {+ Tambah Data Error}
 - Sesuaikan tanggal
 - Klik Tombol Indikasikan
 
+### Pasang Aplikasi Pada Perangkat
+1. Desktop > Khusus peramban chrome kamu bisa klik ikon komputer di sebelah ikon borkmark (bintang) atau klik titik 3/lainnya pilih > transimisikan, simpan, dan bagikan > install INDICARS.
+2. Mobile > Klik titik 3 pada peramban chrome gulir dan pilih install dan buat pintasan.
+
+Tautan resmi > https://spanelweb.github.io/indicars
+
 ### Catatan
 ``` txt
 Semua data disimpan secara lokal! Kami tidak menyimpan data secara online.

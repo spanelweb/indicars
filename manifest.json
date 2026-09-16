@@ -4,8 +4,8 @@
   "description": "Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.",
   "start_url": "https://spanelweb.github.io/indicars",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
   "icons": [
     {
       "src": "indicars.png",

@@ -13,6 +13,7 @@ Aplikasi berbasis AI untuk mendiagnosis kode error (OBD-II), mengetahui indikasi
 | Langsung buat indikasi dengan Scanner OBD-II (ELM327) | Tampilan isi kartu | Tampilan isi kartu kebawah |
 
 ## Setup & Integrasi Gemini API Key
+Saat ini memakai model gemini-3.5-flash-lite
 1. Masukkan nama bengkel anda.
 2. Pilih logo/gambar bengkel anda.
 3. Buat api key > [disini](https://aistudio.google.com/api-keys) lalu tempel api key anda.

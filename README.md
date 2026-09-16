@@ -42,8 +42,15 @@ Klik tombol {+ Tambah Data Error}
 - Masukkan Kode Error (DTC)
 - Pilih Merk Mobil (Buatan Jepang di Indonesia)
 - Masukkan Nama Mobil / Versi
+- Masukkan Nama Pemilik Mobil
 - Sesuaikan tanggal
 - Klik Tombol Indikasikan
+
+### Pairing OBD II/ELM327
+- Hubungan perangkat (Pastikan Kunci Mobil On)
+- Ijinkan Perangkat di sekitar (Mobile/HP)
+- Lakukan scan dan dapatkan hasil deteksi (by generate AI)
+- Reset ecu error (tergantung fungsi dari alat OBD II/ELM327)
 
 ### Pasang Aplikasi Pada Perangkat
 1. Desktop > Khusus peramban chrome kamu bisa klik ikon komputer di sebelah ikon borkmark (bintang) atau klik titik 3/lainnya pilih > transimisikan, simpan, dan bagikan > install INDICARS.
@@ -55,7 +62,9 @@ Tautan resmi > https://spanelweb.github.io/indicars
 ``` txt
 Semua data disimpan secara lokal! Kami tidak menyimpan data secara online.
 Lakukan penyimpanan secara mandiri dengan mengexport data yang sudah anda buat.
-import .indicars anda untuk pemulihan data. 
+import .indicars anda untuk pemulihan data.
+Segala resiko di tanggung sendiri!
+Kami hanya mengembangkan web aplikasi dengan tujuan membantu/memudahkan.
 ```
 
 

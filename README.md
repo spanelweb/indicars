@@ -28,6 +28,8 @@ Saat ini memakai model gemini-3.5-flash-lite
 
 > Membuat data indikasi Error
 
+> Mengedit Nama Pemilik Kendaraan
+
 > Menghapus data pada daftar kartu    
 
 > Menganalisa kesalahan berdasarkan kode dari OBD II (by generate AI)

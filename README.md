@@ -26,7 +26,7 @@ Saat ini memakai model gemini-3.5-flash-lite
 
 > Pencarian data yang tersimpan
 
-> Membuat data Error
+> Membuat data indikasi Error
 
 > Menghapus data pada daftar kartu    
 

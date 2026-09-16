@@ -5,7 +5,7 @@ Aplikasi berbasis AI untuk mendiagnosis kode error (OBD-II), mengetahui indikasi
 | Setup | Dashboard | Tambah Data |
 | :---: | :---: | :---: |
 | ![Gambar 1](screenshot/ss_001.png) | ![Gambar 2](screenshot/ss_002.png) | ![Gambar 3](screenshot/ss_003.png) |
-| Tampilan Data/Setelan | Tampilan dashboard dan data pada kartu | Tampilan menambahkan data error baru |
+| Tampilan Wizard/Setelan | Tampilan dashboard dan data pada kartu | Tampilan menambahkan data error baru |
 
 | Koneksi OBD II | Isi Kartu | Isi Kartu Ke Bawah |
 | :---: | :---: | :---: |

@@ -47,12 +47,12 @@ Klik tombol {+ Tambah Data Error}
 - Klik Tombol Indikasikan
 
 ### Pairing OBD II/ELM327
-- Hubungan perangkat (Pastikan Kunci Mobil On)
+- Hubungkan perangkat (Pastikan Kunci Mobil On)
 - Ijinkan Perangkat di sekitar (Mobile/HP)
 - Lakukan scan dan dapatkan hasil deteksi (by generate AI)
 - Reset ecu error (tergantung fungsi dari alat OBD II/ELM327)
 
-### Pasang Aplikasi Pada Perangkat
+### Pasang Aplikasi Pada Perangkat (Desktop/Mobile)
 1. Desktop > Khusus peramban chrome kamu bisa klik ikon komputer di sebelah ikon borkmark (bintang) atau klik titik 3/lainnya pilih > transimisikan, simpan, dan bagikan > install INDICARS.
 2. Mobile > Klik titik 3 pada peramban chrome gulir dan pilih install dan buat pintasan.
 

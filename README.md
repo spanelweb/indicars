@@ -1,5 +1,5 @@
 # Indicars
-Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.
+Aplikasi berbasis AI untuk mendiagnosis kode error (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.
 
 ## Table Gambar
 | Setup | Dashboard | Tambah Data |
@@ -40,14 +40,14 @@ Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui in
 ### Menambahkan Data Error
 Klik tombol {+ Tambah Data Error}
 - Masukkan Kode Error (DTC)
-- Pilih Merk Mobil (Buatan Jepang di Indonesia)
-- Masukkan Nama Mobil / Versi
-- Masukkan Nama Pemilik Mobil
+- Pilih Merek (Buatan Jepang di Indonesia)
+- Masukkan Nama Model / Versi
+- Masukkan Nama Pemilik
 - Sesuaikan tanggal
 - Klik Tombol Indikasikan
 
 ### Pairing OBD II/ELM327
-- Hubungkan perangkat (Pastikan Kunci Mobil On)
+- Hubungkan perangkat (Pastikan Kunci On)
 - Ijinkan Perangkat di sekitar (Mobile/HP)
 - Lakukan scan dan dapatkan hasil deteksi (by generate AI)
 - Reset ecu error (tergantung fungsi dari alat OBD II/ELM327)

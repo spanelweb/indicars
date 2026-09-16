@@ -1,7 +1,7 @@
 {
-  "name": "INDICARS - Aplikasi Diagnosis & Indikasi Error Mobil Pintar",
+  "name": "INDICARS - Aplikasi Diagnosis & Indikasi Error Pintar",
   "short_name": "INDICARS",
-  "description": "Aplikasi berbasis AI untuk mendiagnosis kode error mobil (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.",
+  "description": "Aplikasi berbasis AI untuk mendiagnosis kode error (OBD-II), mengetahui indikasi masalah, dan panduan perbaikan secara akurat dan cepat.",
   "start_url": "https://spanelweb.github.io/indicars",
   "display": "standalone",
   "background_color": "#1e293b",

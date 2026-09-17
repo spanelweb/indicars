@@ -67,7 +67,7 @@ Semua data disimpan secara lokal! Kami tidak menyimpan data secara online.
 Lakukan penyimpanan secara mandiri dengan mengexport data yang sudah anda buat.
 import .indicars anda untuk pemulihan data.
 Segala resiko di tanggung sendiri!
-Kami hanya mengembangkan web aplikasi dengan tujuan membantu/memudahkan.
+Kami hanya mengembangkan web aplikasi dengan tujuan membantu/memudahkan masyarakat.
 ```
 
 

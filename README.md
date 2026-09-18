@@ -63,6 +63,14 @@ Klik tombol {+ Tambah Data Error}
 - Kembali ke aplikasi, pilih mode Wi-Fi OBD, lalu lakukan scan untuk membaca data kendaraan (bisa langsung di-generate dengan AI).
 - Reset ECU error (tergantung dukungan dari fitur alat OBD II/ELM327 yang Anda gunakan).
 
+### Pairing OBD-II / ELM327 (Kabel USB / Serial)
+- Pastikan dongle atau kabel OBD-II berbasis UART-to-USB (seperti chip CH340, CP2102, atau FTDI) sudah dihubungkan dari port OBD-II mobil ke port USB perangkat Anda (Laptop/PC/HP Android dengan dukungan OTG).
+- Nyalakan kontak mobil ke posisi ON (mesin tidak harus hidup, tetapi kelistrikan utama aktif agar ECU merespons).
+- Buka aplikasi pada browser yang mendukung Web Serial API (seperti Google Chrome atau Microsoft Edge versi terbaru).
+- Pilih mode Kabel USB pada tombol pilihan koneksi di aplikasi, lalu klik tombol Mulai Scan.
+- Browser akan memunculkan jendela pop-up pilihan perangkat serial. Pilih port USB dongle OBD-II Anda (biasanya terdeteksi sebagai USB Serial, CH340, atau CP210x), lalu klik Hubungkan.
+- Tunggu beberapa saat hingga proses inisialisasi ELM327 dan pembacaan data kendaraan selesai. Data siap digunakan untuk diagnosis AI atau mereset error ECU.
+
 ### Pasang Aplikasi Pada Perangkat (Desktop/Mobile)
 1. Desktop > Khusus peramban chrome kamu bisa klik ikon komputer di sebelah ikon borkmark (bintang) atau klik titik 3/lainnya pilih > transimisikan, simpan, dan bagikan > install INDICARS.
 2. Mobile > Klik titik 3 pada peramban chrome gulir dan pilih install dan buat pintasan.

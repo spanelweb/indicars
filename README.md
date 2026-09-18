@@ -49,11 +49,19 @@ Klik tombol {+ Tambah Data Error}
 - Sesuaikan tanggal
 - Klik Tombol Indikasikan
 
-### Pairing OBD II/ELM327
-- Hubungkan perangkat (Pastikan Kunci On)
-- Ijinkan Perangkat di sekitar (Mobile/HP)
-- Lakukan scan dan dapatkan hasil deteksi (by generate AI)
-- Reset ecu error (tergantung fungsi dari alat OBD II/ELM327)
+### Pairing OBD II/ELM327 (BLE 4.0+)
+- Nyalakan Kontak Mobil: Putar kunci kontak mobil ke posisi ON (mesin tidak harus dinyalakan) agar dongle OBD-II aktif dan mendapat daya.
+- Aktifkan Bluetooth & Izin: Pastikan Bluetooth di perangkat (HP/Laptop) Anda aktif, lalu berikan izin akses perangkat di sekitar (Nearby Devices) saat aplikasi meminta.
+- Pilih & Hubungkan: Di dalam aplikasi, pilih mode Bluetooth 4.0+ (BLE), klik Mulai Scan, lalu pilih perangkat OBD-II Anda dari daftar perangkat yang muncul.
+- Analisis AI: Tunggu hingga proses pembacaan sensor selesai, lalu gunakan data error (DTC) atau kondisi kendaraan untuk langsung di-generate dengan Diagnosis AI.
+- Reset ECU (Opsional): Lakukan penghapusan error code atau reset ECU jika diperlukan (fitur ini bergantung pada dukungan spesifik dari alat OBD-II Anda).
+
+### Pairing OBD II/ELM327 (Wi-Fi)
+- Nyalakan kontak mobil ke posisi ON (pastikan dongle Wi-Fi OBD tertancap di port OBD-II dan lampu indikator menyala).
+- Buka menu Pengaturan Wi-Fi di perangkat (HP/Laptop) Anda.
+- Cari dan hubungkan ke jaringan Wi-Fi yang dipancarkan oleh dongle (biasanya bernama OBDII, WIFI_OBD, atau sejenisnya. Masukkan kata sandi default jika diminta, seperti 12345678 atau 0000).
+- Kembali ke aplikasi, pilih mode Wi-Fi OBD, lalu lakukan scan untuk membaca data kendaraan (bisa langsung di-generate dengan AI).
+- Reset ECU error (tergantung dukungan dari fitur alat OBD II/ELM327 yang Anda gunakan).
 
 ### Pasang Aplikasi Pada Perangkat (Desktop/Mobile)
 1. Desktop > Khusus peramban chrome kamu bisa klik ikon komputer di sebelah ikon borkmark (bintang) atau klik titik 3/lainnya pilih > transimisikan, simpan, dan bagikan > install INDICARS.
